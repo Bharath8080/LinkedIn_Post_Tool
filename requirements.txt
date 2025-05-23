@@ -3,3 +3,4 @@ composio_openai
 langchain 
 langchain-openai 
 composio-langchain
+python-dotenv
